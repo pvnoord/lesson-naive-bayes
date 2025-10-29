@@ -30,6 +30,9 @@ pip install -r requirements.txt
 
 # Learning goals
 
+The student can explain the Frequentist and Bayesian approach to statistics and knows their main differences and application fields
+
+The student can explain what the naïve Bayesian technique entails and how it can be used to make predictions on data.
 
 
 # Resources
